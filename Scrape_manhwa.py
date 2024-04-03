@@ -1,9 +1,3 @@
-"""import requests
-req=requests.get("https://theblank.net/wp-content/uploads/WP-manga/data/manga_64fb66ad898b6/ede2b3bb6c7a91ee8e6677a4f3553358/01.jpg")
-#print(req.status_code)
-with open('sico.png','wb') as f:
-    f.write(req.content)
-"""
 import requests
 
 headers = {
